@@ -1,0 +1,28 @@
+{
+    "characters": [
+        {
+            "name": "Akbal",
+            "gender": "male",
+            "pitch": 0.9,
+            "rate": 1
+        },
+        {
+            "name": "Itzel",
+            "gender": "female",
+            "pitch": 1.3,
+            "rate": 0.9
+        },
+        {
+            "name": "Itzamna",
+            "gender": "male",
+            "pitch": 0.7,
+            "rate": 0.8
+        },
+        {
+            "name": "Shadow King",
+            "gender": "male",
+            "pitch": 0.6,
+            "rate": 1.1
+        }
+    ]
+}
